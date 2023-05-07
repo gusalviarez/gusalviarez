@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gustavo</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=800&width=500&height=100&lines=Gustavo+Alviarez;Fullstack+developer)](https://git.io/typing-svg)
+
 <h3 align="center">A passionate fullstack developer from Venezuela</h3>
 
 - 🔭 I’m currently the CEO of **wizardly**
