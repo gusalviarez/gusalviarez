@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=800&center=true&vCenter=true&width=500&height=100&lines=Gustavo+Alviarez;Fullstack+developer)](https://git.io/typing-svg)
+<p align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=800&center=true&vCenter=true&width=500&height=100&lines=Gustavo+Alviarez;Fullstack+developer)](https://git.io/typing-svg)</p>
 
 <h3 align="center">A passionate fullstack developer from Venezuela</h3>
 
