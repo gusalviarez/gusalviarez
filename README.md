@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
 <h3 align="center">A passionate fullstack developer from Venezuela</h3>
 
-<p align="left"> <a href="https://twitter.com/hakujuice" target="blank"><img src="https://img.shields.io/twitter/follow/hakujuice?logo=twitter&style=for-the-badge" alt="hakujuice" /></a> </p>
-
 - 🔭 I’m currently working on **wizardly**
 
 - 👯 I’m looking to collaborate on **open source interesting proyects**
