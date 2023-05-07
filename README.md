@@ -27,4 +27,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gus-rkds&" alt="gus-rkds" /></p>
 
-// probemos si renderiza
+[//]: # (Created using https://rahuldkjain.github.io/gh-profile-readme-generator/ go star his proyect!!)
