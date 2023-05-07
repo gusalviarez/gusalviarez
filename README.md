@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
 <h3 align="center">A passionate fullstack developer from Venezuela</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gus-rkds&label=Profile%20views&color=0e75b6&style=flat" alt="gus-rkds" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gus-rkds" alt="gus-rkds" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/hakujuice" target="blank"><img src="https://img.shields.io/twitter/follow/hakujuice?logo=twitter&style=for-the-badge" alt="hakujuice" /></a> </p>
 
 - 🔭 I’m currently working on **wizardly**
