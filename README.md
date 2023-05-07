@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gus-rkds&show_icons=true&locale=en" alt="gus-rkds" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gus-rkds&" alt="gus-rkds" /></p>
+
+// probemos si renderiza
