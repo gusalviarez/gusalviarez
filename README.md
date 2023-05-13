@@ -6,12 +6,6 @@
 
 - 👯 I’m looking to collaborate on **open source interesting proyects**
 
-- 👨‍💻 All of my projects are available at [My portolio](My portolio)
-
-- 📫 How to reach me **gusalv2001@gmail.com**
-
-- 📄 Know about my experiences [Resume](Resume)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hakujuice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hakujuice" height="30" width="40" /></a>
