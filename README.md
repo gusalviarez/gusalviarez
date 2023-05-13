@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate fullstack developer from Venezuela</h3>
 
-- 🔭 I’m currently the CEO of **wizardly**
+- 🔭 I’m currently the CEO of **Wizardly**
 
 - 👯 I’m looking to collaborate on **open source interesting proyects**
 
