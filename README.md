@@ -4,7 +4,8 @@
 
 **Wizardly** 🧙‍♂️
 <br/>
-**Getcupos** 🐱‍🐉 Co-creator 
+**Getcupos** Co-creator 🧩
+<br/>
 I’m looking to collaborate on **open source interesting proyects**
 
 <h3 align="left">Connect with me:</h3>
