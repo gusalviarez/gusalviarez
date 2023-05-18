@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate fullstack developer from Venezuela</h3>
 
-**Wizardly** 🧙‍♂️
+**Wizardly** CEO 🧙‍♂️
 <br/>
 **Getcupos** Co-creator 🧩
 <br/>
