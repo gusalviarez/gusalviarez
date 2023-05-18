@@ -2,8 +2,9 @@
 
 <h3 align="center">A passionate fullstack developer from Venezuela</h3>
 
-**Wizardly** CEO
-**Getcupos** co-creator
+**Wizardly** 🧙‍♂️
+<br/>
+**Getcupos** 🐱‍🐉 Co-creator 
 I’m looking to collaborate on **open source interesting proyects**
 
 <h3 align="left">Connect with me:</h3>
