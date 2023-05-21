@@ -11,7 +11,7 @@ I’m looking to collaborate on **open source interesting proyects**
 <p align="left">
 <a href="https://twitter.com/hakujuice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hakujuice" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gustavo-alviarez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo-alviarez" height="30" width="40" /></a>
-<a href="https://www.codewars.com/users/gus-rkds" target="blank"><img align="center" src="https://www.codewars.com/users/gus-rkds/badges/small" alt="gustavo-alviarez"/></a></p>
+<a href="https://www.codewars.com/users/gus-rkds" target="blank"><img align="center" src="https://www.codewars.com/users/gus-rkds/badges/large" alt="gustavo-alviarez"/></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 
