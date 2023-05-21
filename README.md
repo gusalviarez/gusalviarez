@@ -43,7 +43,7 @@ I’m looking to collaborate on **open source interesting proyects**
 
 </br>
 </br>
-[//]: # (github stadistics)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gus-rkds&show_icons=true&locale=en&layout=compact" alt="gus-rkds" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gus-rkds&show_icons=true&locale=en" alt="gus-rkds" /></p>
