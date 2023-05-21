@@ -31,7 +31,7 @@ I’m looking to collaborate on **open source interesting proyects**
 
 <h4 align="left">Additional:</h4><p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a></p>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a></p>
             
           
 <h4 align="left">Testing:</h4><p align="left">
