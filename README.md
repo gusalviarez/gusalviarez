@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=800&center=true&vCenter=true&width=1000&height=100&lines=Gustavo+Alviarez;Fullstack+developer)](https://git.io/typing-svg)
 <h3 align="center">A passionate fullstack developer from Venezuela</h3>
-////////////
-////////////
+///////////////////////
+///////////////////
 **Wizardly** CEO 🧙‍♂️
 <br/>
 **Getcupos** Co-creator 🧩
