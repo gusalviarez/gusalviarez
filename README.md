@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from Venezuela</h3>
 
 
-<h4 align="left"><a href="https://github.com/gus-rkds/getcupos" target="_blank" rel="noreferrer noopener" >Getcupos</a> Co-creator 🧩</h4>
+<p><a href="https://github.com/gus-rkds/getcupos" target="_blank" rel="noreferrer noopener" >Getcupos</a> Co-creator 🧩</p>
 
 <br/>
 I’m looking to collaborate on **open source interesting proyects**
