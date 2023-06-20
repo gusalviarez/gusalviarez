@@ -5,7 +5,7 @@
 <table style="border-collapse: collapse; td { padding: 0; border: 0; margin: 0; } img { width: 100%; height: 100%; }">
   <tr>
     <td> <img style="width: 100%; height: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=gus-rkds&theme=tokyonight&hide_border=true" alt="gus-rkds github streak stats" /> </td>
-    <td> <img style="width: 100%; height: 100%;" src="https://github-readme-stats.vercel.app/api?username=gus-rkds&how_icons=true&locale=en" alt="gus-rkds github all stats" /> </td>
+    <td> <img style="width: 100%; height: 100%;" src="https://github-readme-stats.vercel.app/api?username=gus-rkds&how_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="gus-rkds github all stats" /> </td>
   </tr>
 </table>
 
