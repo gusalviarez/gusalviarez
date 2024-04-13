@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=800&center=true&vCenter=true&width=1000&height=100&lines=Gustavo+Alviarez;Frontend+developer)](https://git.io/typing-svg)
-<h3 align="center">Mi cupo and Mi inglés developer</h3>
-<h3 align="center">A passionate developer that loves improve every day solving real life problems</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=800&center=true&vCenter=true&width=1000&height=100&lines=Hi+there+🗿)](https://git.io/typing-svg)
 
 <table style="border-collapse: collapse; td { padding: 0; border: 0; margin: 0; } img { width: 100%; height: 100%; }">
   <tr>
