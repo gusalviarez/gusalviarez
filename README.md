@@ -6,7 +6,7 @@
   </p>
   
   <p>
-    <i>"I design strategic business automations and complex integrations, leveraging my developer background to ensure scalability and technical rigor."</i>
+    <i>I design strategic business automations and complex integrations, leveraging my developer background to ensure scalability and technical rigor.</i>
   </p>
 
   <a href="mailto:gusalv2001@gmail.com">
