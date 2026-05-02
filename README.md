@@ -1,57 +1,38 @@
-<div align="center">
-  <h1>Hi, I'm Gustavo Alviarez 👋</h1>
-  <h3>Technical Solutions Consultant</h3>
-  <p>
-    <b>Specialist in Freshworks, Monday.com, and Make ecosystems & Enterprise Automation</b>
-  </p>
-  
-  <p>
-    <i>I design strategic business automations and complex integrations, leveraging my developer background to ensure scalability and technical rigor.</i>
-  </p>
+# Hi, I'm Gustavo Alviarez 👋
+### Systems Engineer | Software Consultant | Automation Architect
 
-  <a href="mailto:gusalv2001@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-Email_Me-D14836?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-</div>
-
-<br />
+I bridge the gap between complex business requirements and technical execution. With a background in **Fullstack Development** and current studies in **Systems Engineering**, I specialize in architecting "Single Source of Truth" environments and high-impact software integrations.
 
 ---
 
-### 🚀 Professional Profile
-I currently serve as a **Professional Services Specialist**, dedicated to empowering organizations to maximize the ROI of their SaaS investments (Freshworks, Monday.com).
-
-My role encompasses the entire service lifecycle—from defining the initial strategy to the final knowledge transfer. I partner with stakeholders to translate business requirements into functional, automated ecosystems.
-
-**How I deliver value:**
-*   💡 **Strategic Advisory:** I guide clients on best practices and architectural decisions, ensuring their SaaS stack is scalable and aligned with their long-term business goals.
-*   ⚙️ **Advanced Configuration & Automation:** I build tailored environments, creating complex configurations and custom automations that reduce manual effort and error.
-*   🔄 **Ecosystem Integration:** I orchestrate seamless data flow between disparate tools (e.g., connecting ITSM or CRM with another systems) using Make.com and APIs.
-*   🎓 **Knowledge Transfer & Enablement:** I conduct technical workshops and training sessions to ensure client teams are fully capable of managing and adopting the solutions we build.
+## 🛠️ Technical Expertise
+- **Ecosystems:** Freshworks (Freshservice, Freshdesk, Freshsales) & Monday.com.
+- **Languages:** JavaScript (Node.js/React), Python, SQL.
+- **Automation:** Make.com (Integromat), REST APIs, Webhooks.
+- **Web/Mobile:** React, React Native, Leaflet (Mapping & Geolocation).
 
 ---
 
-### 🛠 Tech Stack (Core Tools)
-*These are the technologies I master for my professional implementations:*
+## 🚀 Key Projects
 
-<p>
-  <img src="https://img.shields.io/badge/Freshworks-Full_Suite_Expert-orange?style=flat-square&logo=freshworks" alt="Freshworks"/>
-  <img src="https://img.shields.io/badge/Make.com-Solutions_Architect-purple?style=flat-square&logo=integromat" alt="Make"/>
-  <img src="https://img.shields.io/badge/Monday.com-Full_Suite_Expert-red?style=flat-square&logo=monday.com" alt="Monday"/>
-</p>
+### 📍 [University Interactive Map](https://github.com/USM-Club-Esport/Mapa-USM.git)
+**Tech:** React Native, Leaflet, Node.js  
+Engineered an interactive navigation solution for my university campus. Focused on data structures for location categorization and optimizing mobile performance.
+
+### 🏗️ Autodesk Revit Extension
+**Tech:** Python, pyRevit  
+Coordinated a development team to build a custom BIM automation tool. Designed core scripts to handle architectural data processing and automated manual modeling tasks.
+
+### ⚡ Chrome Extensions Developer
+**Tech:** JavaScript, Chrome API  
+A collection of custom scripts and extensions designed to eliminate operational friction and automate repetitive browser-based workflows.
 
 ---
 
-### 💻 Development Background (Personal Projects)
-*Although my current role is Advisory/No-Code, my experience as a developer allows me to understand APIs, data structures, and complex logic deeper than a traditional consultant.*
+## 📈 Professional Journey
+Currently a **Professional Services Consultant at GB Advisors**, where I lead strategic Go-Live transitions for international clients and architect ITSM solutions. I don't just implement software; I design the automation logic that makes businesses scale.
 
-**In this GitHub, you will find my personal coding projects:**
-*   🧪 Experimentation with **Mobile & Web Development**.
-*   🛠 Proof of concepts and pure programming logic.
-*   *Note: The enterprise solutions I architect professionally are proprietary to my organization's client portfolio and are not published here due to confidentiality.*
-
-<p>
-  <img src="https://img.shields.io/badge/Code-JavaScript_%2F_Node-yellow?style=flat-square&logo=javascript" alt="JS"/>
-  <img src="https://img.shields.io/badge/Mobile-React_Native-blue?style=flat-square&logo=react" alt="Mobile"/>
-  <img src="https://img.shields.io/badge/Data-JSON_%2F_APIs-lightgrey?style=flat-square&logo=json" alt="JSON"/>
-</p>
+📫 **Connect with me:**
+- **LinkedIn:** [linkedin.com/in/gustavo-alviarez/](https://www.linkedin.com/in/gustavo-alviarez/)
+- **Email:** [gusalv2001@gmail.com](mailto:gusalv2001@gmail.com)
+- **Timezone:** VET (UTC-4)
