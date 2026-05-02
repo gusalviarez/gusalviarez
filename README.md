@@ -1,5 +1,5 @@
 # Hi, I'm Gustavo Alviarez 👋
-### Systems Engineer | Software Consultant | Automation Architect
+### Software Consultant | Automation Architect
 
 I bridge the gap between complex business requirements and technical execution. With a background in **Fullstack Development** and current studies in **Systems Engineering**, I specialize in architecting "Single Source of Truth" environments and high-impact software integrations.
 
